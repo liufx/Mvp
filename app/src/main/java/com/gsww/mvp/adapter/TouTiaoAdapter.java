@@ -22,7 +22,6 @@ import java.util.List;
  * @package: com.gsww.mvp.adapter
  * @author: liufx
  * @date: 2018/12/14 1:07 PM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public class TouTiaoAdapter extends RecyclerView.Adapter<TouTiaoAdapter.ViewHolder> {
