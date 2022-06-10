@@ -9,7 +9,6 @@ import java.io.Serializable;
  * @package: com.gsww.mvp.ui.main
  * @author: liufx
  * @date: 2018/12/14 9:06 AM
- * Copyright © 2018 中国电信甘肃万维公司. All rights reserved.
  * @description: 简要描述
  */
 public class TouTiao implements Serializable {
